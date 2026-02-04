@@ -6,9 +6,6 @@
 *Quick description* : Isart Digital Project, TPS boss fight coop game made in Unity.  
 *Author* : Aodrenn, Liam, Kenzo
 
-
-[Title Image]  
-
 **Gameplay**  
 This project is a cooperative third-person shooter developed in Unreal Engine.  
 Two players control archers fighting together against a giant boss  
