@@ -14,7 +14,9 @@ This project is a cooperative third-person shooter developed in Unreal Engine.
 Two players control archers fighting together against a giant boss  
 in a dedicated boss combat experience.  
 We had to optimize the game to fit the Nintendo Switch specs.  
-[Gameplay Image]  
+
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/592f2bca-d845-4f22-b193-ba5d62e01c12" />
+
 
 **Boss**  
 The boss is a giant mecha creature inspired by Godzilla.  
