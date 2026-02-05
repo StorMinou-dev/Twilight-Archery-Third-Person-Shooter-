@@ -24,7 +24,9 @@ Its behavior is entirely driven by a Behavior Tree,
 allowing structured and readable AI logic.  
 The boss reacts to player position by switching attacks  
 in its arsenal.  
-[Boss Image]  
+
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/f217dcb8-733f-47e0-ba86-5e1cd85ffbbc" /><br>
+
 
 
 **Attacks**  
